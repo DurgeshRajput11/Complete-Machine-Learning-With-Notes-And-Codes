@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Notes & Implementations
+#  Machine Learning Notes & Implementations
 
 ## 📌 Overview
 This repository contains a comprehensive collection of my learning and practical work in **Machine Learning**, including:
@@ -12,7 +12,7 @@ It combines **well-structured notes** with **code implementations** to bridge th
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 ### 🔹 Supervised Learning
 - Linear Regression  
@@ -44,7 +44,7 @@ It combines **well-structured notes** with **code implementations** to bridge th
 
 ---
 
-## 💻 Code Implementations
+##  Code Implementations
 Each concept is supported with **hands-on code**, helping in:
 - Understanding algorithm logic  
 - Visualizing results  
@@ -52,8 +52,8 @@ Each concept is supported with **hands-on code**, helping in:
 
 ---
 
-## 🛠️ Tech Stack
-- Python 🐍  
+##  Tech Stack
+- Python  
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
